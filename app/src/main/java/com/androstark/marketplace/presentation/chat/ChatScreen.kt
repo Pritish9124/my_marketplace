@@ -56,18 +56,6 @@ fun ChatScreen(
                 itemImage = "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=100"
             ),
             ChatConversation(
-                id = "2",
-                userName = "Sarah Johnson",
-                userAvatar = "https://images.unsplash.com/photo-1494790108755-2616b612b3c5?w=100",
-                lastMessage = "Can we meet tomorrow?",
-                timestamp = "1h",
-                isOnline = false,
-                unreadCount = 0,
-                itemTitle = "Honda Civic 2018",
-                itemPrice = "₹15,50,000",
-                itemImage = "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=100"
-            ),
-            ChatConversation(
                 id = "3",
                 userName = "Mike Wilson",
                 userAvatar = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100",
