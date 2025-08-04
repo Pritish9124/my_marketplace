@@ -149,11 +149,6 @@ app/
 2. Open the project in Android Studio
 3. Sync Gradle files
 4. Run the app on an emulator or physical device
-```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 About Me
 
@@ -165,7 +160,3 @@ I'm a mobile app developer with 7+ years of experience in Android and Flutter de
 - [XDA](https://xdaforums.com/m/pritish-sahoo.5730719/about)
 
 ---
-
-<p align="center">
-  Made with ❤️ by Your Name
-</p>
