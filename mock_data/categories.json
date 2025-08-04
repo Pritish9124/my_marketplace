@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "Vehicles",
+      "icon": "vehicles",
+      "color": "#3B82F6",
+      "adCount": 1234
+    },
+    {
+      "id": 2,
+      "name": "Property",
+      "icon": "property",
+      "color": "#10B981",
+      "adCount": 856
+    },
+    {
+      "id": 3,
+      "name": "Electronics",
+      "icon": "electronics",
+      "color": "#8B5CF6",
+      "adCount": 2341
+    },
+    {
+      "id": 4,
+      "name": "Fashion",
+      "icon": "fashion",
+      "color": "#F59E0B",
+      "adCount": 987
+    },
+    {
+      "id": 5,
+      "name": "Furniture",
+      "icon": "furniture",
+      "color": "#EF4444",
+      "adCount": 567
+    },
+    {
+      "id": 6,
+      "name": "Cameras",
+      "icon": "cameras",
+      "color": "#06B6D4",
+      "adCount": 432
+    },
+    {
+      "id": 7,
+      "name": "Gaming",
+      "icon": "gaming",
+      "color": "#EC4899",
+      "adCount": 765
+    },
+    {
+      "id": 8,
+      "name": "Books",
+      "icon": "books",
+      "color": "#84CC16",
+      "adCount": 345
+    }
+  ]
+}

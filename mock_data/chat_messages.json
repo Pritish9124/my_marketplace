@@ -1,0 +1,110 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "sellerId": 101,
+      "sellerName": "John Smith",
+      "sellerAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100",
+      "itemId": 1,
+      "itemTitle": "iPhone 14 Pro Max 256GB",
+      "itemImage": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=100",
+      "lastMessage": "Yes, it's still available. Would you like to see it?",
+      "lastMessageTime": "2h",
+      "isRead": true,
+      "messages": [
+        {
+          "id": 1,
+          "senderId": 0,
+          "senderName": "You",
+          "message": "Hi! Is this iPhone still available?",
+          "timestamp": "10:30 AM",
+          "isFromCurrentUser": true
+        },
+        {
+          "id": 2,
+          "senderId": 101,
+          "senderName": "John Smith",
+          "message": "Yes, it's still available. Would you like to see it?",
+          "timestamp": "10:45 AM",
+          "isFromCurrentUser": false
+        },
+        {
+          "id": 3,
+          "senderId": 0,
+          "senderName": "You",
+          "message": "Great! Can we meet tomorrow?",
+          "timestamp": "10:47 AM",
+          "isFromCurrentUser": true
+        },
+        {
+          "id": 4,
+          "senderId": 101,
+          "senderName": "John Smith",
+          "message": "Sure! How about 3 PM at Central Park?",
+          "timestamp": "10:50 AM",
+          "isFromCurrentUser": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sellerId": 102,
+      "sellerName": "Priya Sharma",
+      "sellerAvatar": "https://images.unsplash.com/photo-1494790108755-2616b612b3c5?w=100",
+      "itemId": 2,
+      "itemTitle": "Used Bicycle",
+      "itemImage": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=100",
+      "lastMessage": "The price is negotiable. What's your offer?",
+      "lastMessageTime": "1d",
+      "isRead": false,
+      "messages": [
+        {
+          "id": 1,
+          "senderId": 0,
+          "senderName": "You",
+          "message": "Hello! I'm interested in your bicycle. Is the price negotiable?",
+          "timestamp": "Yesterday 2:15 PM",
+          "isFromCurrentUser": true
+        },
+        {
+          "id": 2,
+          "senderId": 102,
+          "senderName": "Priya Sharma",
+          "message": "Hi! Yes, the price is negotiable. What's your offer?",
+          "timestamp": "Yesterday 2:30 PM",
+          "isFromCurrentUser": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sellerId": 103,
+      "sellerName": "Mike Johnson",
+      "sellerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100",
+      "itemId": 3,
+      "itemTitle": "MacBook Pro 13-inch M2",
+      "itemImage": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=100",
+      "lastMessage": "I can provide the original receipt and warranty details.",
+      "lastMessageTime": "3d",
+      "isRead": true,
+      "messages": [
+        {
+          "id": 1,
+          "senderId": 0,
+          "senderName": "You",
+          "message": "Hi! Can you provide more details about the MacBook's condition?",
+          "timestamp": "3 days ago 11:20 AM",
+          "isFromCurrentUser": true
+        },
+        {
+          "id": 2,
+          "senderId": 103,
+          "senderName": "Mike Johnson",
+          "message": "It's in excellent condition with minimal usage. I can provide the original receipt and warranty details.",
+          "timestamp": "3 days ago 11:45 AM",
+          "isFromCurrentUser": false
+        }
+      ]
+    }
+  ]
+}

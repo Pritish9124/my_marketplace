@@ -1,0 +1,89 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "title": "iPhone 14 Pro Max 256GB - Like New Condition",
+      "price": 74999.0,
+      "currency": "₹",
+      "location": "Bengaluru, India",
+      "timePosted": "2h",
+      "imageUrl": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+      "isFeatured": true,
+      "isHot": true,
+      "category": "Electronics",
+      "condition": "Like New",
+      "description": "iPhone 14 Pro Max in excellent condition, barely used. Comes with original box and charger."
+    },
+    {
+      "id": 2,
+      "title": "2018 Honda Civic - Excellent Condition",
+      "price": 18500.0,
+      "currency": "₹",
+      "location": "Bengaluru, India",
+      "timePosted": "4h",
+      "imageUrl": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=400",
+      "isFeatured": true,
+      "isHot": false,
+      "category": "Vehicles",
+      "condition": "Excellent",
+      "description": "2018 Honda Civic with low mileage, well maintained, single owner."
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro 13-inch M2 - Perfect for Students",
+      "price": 108999.0,
+      "currency": "₹",
+      "location": "Bengaluru, India",
+      "timePosted": "1d",
+      "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+      "isFeatured": true,
+      "isHot": false,
+      "category": "Electronics",
+      "condition": "Excellent",
+      "description": "MacBook Pro M2 chip, 8GB RAM, 256GB SSD. Perfect for students and professionals."
+    },
+    {
+      "id": 4,
+      "title": "Gaming Laptop",
+      "price": 99999.0,
+      "currency": "₹",
+      "location": "Bengaluru, India",
+      "timePosted": "1d",
+      "imageUrl": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=400",
+      "isFeatured": true,
+      "isHot": false,
+      "category": "Gaming",
+      "condition": "Excellent",
+      "description": "High-end gaming PC with RTX 4080, perfect for 4K gaming and streaming."
+    },
+    {
+      "id": 5,
+      "title": "Vintage Leather Sofa Set",
+      "price": 66999.0,
+      "currency": "₹",
+      "location": "Bengaluru, India",
+      "timePosted": "3d",
+      "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400",
+      "isFeatured": true,
+      "isHot": false,
+      "category": "Furniture",
+      "condition": "Good",
+      "description": "Beautiful vintage leather sofa set, well maintained, perfect for living room."
+    },
+    {
+      "id": 6,
+      "title": "Canon EOS R5 Camera Body",
+      "price": 234999.0,
+      "currency": "₹",
+      "location": "Bengaluru, India",
+      "timePosted": "5h",
+      "imageUrl": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400",
+      "isFeatured": true,
+      "isHot": true,
+      "category": "Cameras",
+      "condition": "Like New",
+      "description": "Professional camera in excellent condition, barely used, includes original packaging."
+    }
+  ]
+}
