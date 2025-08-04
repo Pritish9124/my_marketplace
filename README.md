@@ -1,7 +1,7 @@
 # MyMarketplace - Modern Android Marketplace App
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="MyMarketplace Logo" width="120"/>
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" alt="MyMarketplace Logo" width="192"/>
 </p>
 
 <p align="center">
@@ -99,6 +99,8 @@ MyMarketplace follows Clean Architecture principles with a clear separation of c
   <img src="screenshots/sell.jpg" width="200" alt="Sell Screen"/>
   <img src="screenshots/chat.jpg" width="200" alt="Chat Screen"/>
   <img src="screenshots/saved.jpg" width="200" alt="Chat Screen"/>
+  <img src="screenshots/details1.jpg" width="200" alt="Chat Screen"/>
+  <img src="screenshots/details2.jpg" width="200" alt="Chat Screen"/>
 </p>
 
 ## 📋 Project Structure
