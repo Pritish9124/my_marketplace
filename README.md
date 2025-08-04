@@ -15,6 +15,18 @@ MyMarketplace is a fully-featured OLX-style marketplace Android application that
 > **⚠️ DEVELOPMENT STATUS DISCLAIMER**  
 > This application is currently under active development. Some features described in this README may be partially implemented or planned for future releases. The codebase structure, UI components, and functionality are subject to change as development progresses. This project serves as a demonstration of modern Android development practices and architectural patterns.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.jpg" width="200" alt="Home Screen"/>
+  <img src="screenshots/list.jpg" width="200" alt="Item Details"/>
+  <img src="screenshots/sell.jpg" width="200" alt="Sell Screen"/>
+  <img src="screenshots/chat.jpg" width="200" alt="Chat Screen"/>
+  <img src="screenshots/saved.jpg" width="200" alt="Chat Screen"/>
+  <img src="screenshots/details1.jpg" width="200" alt="Chat Screen"/>
+  <img src="screenshots/details2.jpg" width="200" alt="Chat Screen"/>
+</p>
+
 ## ✨ Features
 
 - **Modern UI with Jetpack Compose**
@@ -90,18 +102,6 @@ MyMarketplace follows Clean Architecture principles with a clear separation of c
 - **Google Maps**: Location services integration
 - **Accompanist**: Compose UI utilities
 - **MockK & JUnit**: Testing frameworks
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/home.jpg" width="200" alt="Home Screen"/>
-  <img src="screenshots/list.jpg" width="200" alt="Item Details"/>
-  <img src="screenshots/sell.jpg" width="200" alt="Sell Screen"/>
-  <img src="screenshots/chat.jpg" width="200" alt="Chat Screen"/>
-  <img src="screenshots/saved.jpg" width="200" alt="Chat Screen"/>
-  <img src="screenshots/details1.jpg" width="200" alt="Chat Screen"/>
-  <img src="screenshots/details2.jpg" width="200" alt="Chat Screen"/>
-</p>
 
 ## 📋 Project Structure
 
